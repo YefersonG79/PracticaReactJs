@@ -7,7 +7,6 @@ const Articles = () => {
           <p className="text-muted">Explora los temas más relevantes en la Ingeniería de Software 2025</p>
         </header>
   
-        {/* Tabla de artículos */}
         <div className="table-responsive">
           <table className="table table-striped table-bordered align-middle text-center">
             <thead className="table-dark">

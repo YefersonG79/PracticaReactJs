@@ -1,7 +1,7 @@
 const Articles = () => {
     return (
       <div className="container mt-4">
-        {/* Encabezado */}
+
         <header className="text-center mb-4">
           <h2 className="fw-bold">Artículos Técnicos</h2>
           <p className="text-muted">Explora los temas más relevantes en la Ingeniería de Software 2025</p>
